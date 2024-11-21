@@ -1,5 +1,11 @@
 ### Money Matters: Personal Finance App
 
+BY;
+S.ABARNA(Head)
+ISWARYA
+ARIVAZHAGAN
+P.BALAJI
+
 *Overview*  
 Money Matters is an intuitive personal finance app designed to help you take control of your finances, track spending, and save money with ease. Whether you're budgeting for the first time or a seasoned financial planner, this app makes managing your finances simple and effective.
 
