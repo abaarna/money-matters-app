@@ -17,6 +17,8 @@ Money Matters is an intuitive personal finance app designed to help you take con
 - *Savings Goals:* Set savings targets for vacations, emergency funds, or large purchases, and track your progress.
 
 *App Screenshots*  
+![image](https://github.com/user-attachments/assets/e01497de-1706-46f7-a858-461115986ec9)
+
 
 1. *Home Dashboard:*  
    Displays an overview of your accounts, current budget status, and recent transactions.
@@ -26,17 +28,21 @@ Money Matters is an intuitive personal finance app designed to help you take con
 2. *Expense Tracking:*  
    View your expenses in a detailed list or pie chart, with clear categorizations like "Dining," "Shopping," and "Utilities."
 
-   ![Expense Tracking Screenshot]  
+   ![Expense Tracking Screenshot]
+   ![image](https://github.com/user-attachments/assets/76263533-217a-490b-aa51-d4fb613b8761)
 
-3. *Budget Breakdown:*  
+
+4. *Budget Breakdown:*  
    Visualize your spending limits in different categories and adjust them as necessary.
 
    ![Budget Breakdown Screenshot]  
 
-4. *Savings Goals:*  
+5. *Savings Goals:*  
    Track progress towards specific financial goals, such as saving for a vacation or emergency fund.
 
-   ![Savings Goals Screenshot]  
+   ![Savings Goals Screenshot]
+   ![image](https://github.com/user-attachments/assets/86aca12a-83e2-435d-8b33-4f929e9d57e6)
+
 
 *Why Choose Money Matters?*  
 Money Matters stands out with its user-friendly design, real-time syncing, and advanced financial insights, making it the ideal companion for managing both short-term spending and long-term financial goals.
